@@ -1,7 +1,7 @@
 # Task_5_Capturing_And_Analyzing_Network_Traffic_Using_Wireshark
 
 ## 🎯 Objective
-To capture real-time network traffic and analyse common network protocols such as DNS, HTTP, and TCP using Wireshark.
+To capture real-time network traffic and analyse common network protocols such as DNS, HTTP, and ICMP using Wireshark.
 
 ---
 
@@ -20,7 +20,7 @@ To capture real-time network traffic and analyse common network protocols such a
    
 2. Start Wireshark and select the active network interface.
    
-3. Visit or ping any website to generate traffic.
+3. Browse a website or ping a server to generate traffic.
   
 4. Stop the capture after 1 minute.
    
