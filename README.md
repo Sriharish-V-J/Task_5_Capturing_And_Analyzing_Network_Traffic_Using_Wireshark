@@ -1,7 +1,7 @@
 # Task_5_Capturing_And_Analyzing_Network_Traffic_Using_Wireshark
 
 ## 🎯 Objective
-To capture real-time network traffic and analyze common network protocols such as DNS, HTTP, and TCP using Wireshark.
+To capture real-time network traffic and analyse common network protocols such as DNS, HTTP, and TCP using Wireshark.
 
 ---
 
@@ -33,8 +33,8 @@ To capture real-time network traffic and analyze common network protocols such a
 
 ---
 
-## 📂 Deliverables
-- Packet Capture File: `task5_capture.pcap`
+## 📂 Samples
+- Packet Capture File: `Packet_Capture.pcapng`
   
 ---
 
